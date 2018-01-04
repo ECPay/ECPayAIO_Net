@@ -1,0 +1,14 @@
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\DoAction.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\DoAction.pdb
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.csprojResolveAssemblyReference.cache
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.pdb
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\DoAction.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\DoAction.pdb
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\DoAction.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\DoAction.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\bin\ECPay.Payment.Integration.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.5.信用卡關帳／退刷／取消／放棄\DoAction\obj\Debug\DoAction.dll

@@ -1,0 +1,7 @@
+C:\Users\eric.chou\Desktop\新增資料夾 (3)\Payment\Payment\bin\Payment.dll
+C:\Users\eric.chou\Desktop\新增資料夾 (3)\Payment\Payment\bin\Payment.pdb
+C:\Users\eric.chou\Desktop\新增資料夾 (3)\Payment\Payment\obj\Debug\Payment.csprojResolveAssemblyReference.cache
+C:\Users\eric.chou\Desktop\新增資料夾 (3)\Payment\Payment\obj\Debug\Payment.dll
+C:\Users\eric.chou\Desktop\新增資料夾 (3)\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\常用全方位金流\Payment\Payment\obj\Debug\Payment.csprojResolveAssemblyReference.cache
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\常用全方位金流\Payment\Payment\obj\Debug\Payment.pdb

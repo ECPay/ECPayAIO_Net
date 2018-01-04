@@ -1,0 +1,15 @@
+C:\Users\eric.chou\Desktop\程式範例\歐付寶\歐付寶SDK\歐付寶.NET\01.金流\06.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\QueryCreditCardPeriodInfo\bin\QueryCreditCardPeriodInfo.dll
+C:\Users\eric.chou\Desktop\程式範例\歐付寶\歐付寶SDK\歐付寶.NET\01.金流\06.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\QueryCreditCardPeriodInfo\bin\QueryCreditCardPeriodInfo.pdb
+C:\Users\eric.chou\Desktop\程式範例\歐付寶\歐付寶SDK\歐付寶.NET\01.金流\06.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.csprojResolveAssemblyReference.cache
+C:\Users\eric.chou\Desktop\程式範例\歐付寶\歐付寶SDK\歐付寶.NET\01.金流\06.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.dll
+C:\Users\eric.chou\Desktop\程式範例\歐付寶\歐付寶SDK\歐付寶.NET\01.金流\06.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\bin\QueryCreditCardPeriodInfo.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\bin\QueryCreditCardPeriodInfo.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\bin\ECPay.Payment.Integration.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\bin\QueryCreditCardPeriodInfo.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\bin\QueryCreditCardPeriodInfo.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\bin\ECPay.Payment.Integration.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.4.信用卡定期定額訂單查詢\QueryCreditCardPeriodInfo\obj\Debug\QueryCreditCardPeriodInfo.pdb

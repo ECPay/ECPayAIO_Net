@@ -1,0 +1,16 @@
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.pdb
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.csprojResolveAssemblyReference.cache
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.pdb
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.pdb
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.csprojResolveAssemblyReference.cache
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.dll
+Z:\資訊\01.技術客服\●範例專區\allPay\NewVer\Final\範例整理.NET\02.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\ECPay.Payment.Integration.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.csprojResolveAssemblyReference.cache
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.pdb

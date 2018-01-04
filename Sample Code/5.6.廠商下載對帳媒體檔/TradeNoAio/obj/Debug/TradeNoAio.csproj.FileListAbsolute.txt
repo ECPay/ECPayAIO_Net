@@ -1,0 +1,6 @@
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.7.廠商下載對帳媒體檔\TradeNoAio\bin\TradeNoAio.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.7.廠商下載對帳媒體檔\TradeNoAio\bin\TradeNoAio.pdb
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.7.廠商下載對帳媒體檔\TradeNoAio\bin\ECPay.Payment.Integration.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.7.廠商下載對帳媒體檔\TradeNoAio\obj\Debug\TradeNoAio.csprojResolveAssemblyReference.cache
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.7.廠商下載對帳媒體檔\TradeNoAio\obj\Debug\TradeNoAio.dll
+C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.7.廠商下載對帳媒體檔\TradeNoAio\obj\Debug\TradeNoAio.pdb
