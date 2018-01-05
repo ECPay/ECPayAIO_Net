@@ -89,7 +89,7 @@ namespace AioCheckOut
 
                     //oPayment.SendExtend.BindingCard = BindingCardType.No; //記憶卡號
                     //oPayment.SendExtend.MerchantMemberID = ""; //記憶卡號識別碼
-                    //oPayment.SendExtend.Language = "ENG"; //語系設定
+                    //oPayment.SendExtend.Language = ""; //語系設定
 
                     #endregion Credit 功能參數
 
@@ -102,7 +102,7 @@ namespace AioCheckOut
 
                     #region 分期付款
 
-                    //oPayment.SendExtend.CreditInstallment = 3;//刷卡分期期數
+                    //oPayment.SendExtend.CreditInstallment = "3,6";//刷卡分期期數
 
                     #endregion 分期付款
 
