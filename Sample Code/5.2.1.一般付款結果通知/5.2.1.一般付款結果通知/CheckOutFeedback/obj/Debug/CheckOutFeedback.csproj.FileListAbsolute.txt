@@ -14,3 +14,8 @@ C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流
 C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.csprojResolveAssemblyReference.cache
 C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.dll
 C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.pdb
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.dll
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\bin\CheckOutFeedback.pdb
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.csprojResolveAssemblyReference.cache
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.dll
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.2.1.一般付款結果通知\5.2.1.一般付款結果通知\CheckOutFeedback\obj\Debug\CheckOutFeedback.pdb

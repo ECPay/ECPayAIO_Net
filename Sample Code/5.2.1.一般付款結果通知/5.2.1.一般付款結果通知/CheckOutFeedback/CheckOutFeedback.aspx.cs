@@ -19,6 +19,7 @@ namespace CheckOutFeedback
             Hashtable htFeedback = null;
             try
             {
+
                 using (AllInOne oPayment = new AllInOne())
                 {
                     oPayment.HashKey = "5294y06JbISpM5x9";//ECPay 提供的 HashKey

@@ -22,7 +22,7 @@ namespace AioCheckOut
                 {
                     /* 服務參數 */
                     oPayment.ServiceMethod = HttpMethod.HttpPOST;//介接服務時，呼叫 API 的方法
-                    oPayment.ServiceURL = "https://payment-stage.ecpay.com.tw/Cashier/AioCheckOut/V5";//要呼叫介接服務的網址
+                    oPayment.ServiceURL = "https://payment-stage.ecpay.com.tw/Cashier/AioCheckOut/V2";//要呼叫介接服務的網址
                     oPayment.HashKey = "5294y06JbISpM5x9";//ECPay提供的Hash Key
                     oPayment.HashIV = "v77hoKGq4kWxNNIS";//ECPay提供的Hash IV
                     oPayment.MerchantID = "2000132";//ECPay提供的特店編號
@@ -30,7 +30,7 @@ namespace AioCheckOut
                     /* 基本參數 */
                     oPayment.Send.ReturnURL = "http://example.com";//付款完成通知回傳的網址
                     oPayment.Send.ClientBackURL = "http://www.ecpay.com.tw/";//瀏覽器端返回的廠商網址
-                    oPayment.Send.OrderResultURL = "";//瀏覽器端回傳付款結果網址
+                    oPayment.Send.OrderResultURL = "http://localhost:52413/CheckOutFeedback.aspx";//瀏覽器端回傳付款結果網址
                     oPayment.Send.MerchantTradeNo = "ECPay" + new Random().Next(0, 99999).ToString();//廠商的交易編號
                     oPayment.Send.MerchantTradeDate = DateTime.Now;//廠商的交易時間
                     oPayment.Send.TotalAmount = Decimal.Parse("3280");//交易總金額
