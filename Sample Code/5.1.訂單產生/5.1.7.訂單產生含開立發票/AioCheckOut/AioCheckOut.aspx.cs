@@ -43,7 +43,6 @@ namespace AioCheckOut
                     oPayment.Send.DeviceSource = DeviceType.PC;//來源裝置
                     oPayment.Send.IgnorePayment = "";//不顯示的付款方式
                     //oPayment.Send.PlatformID = "";//特約合作平台商代號
-                    oPayment.Send.HoldTradeAMT = HoldTradeType.No; //是否延遲撥款
 
                     //訂單的商品資料
                     oPayment.Send.Items.Add(new Item()
