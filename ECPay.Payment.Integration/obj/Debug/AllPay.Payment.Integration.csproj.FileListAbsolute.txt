@@ -1,0 +1,6 @@
+D:\work\app sample\AllPay.Payment.Integration\bin\Debug\ECPay.Payment.Integration.xml
+D:\work\app sample\AllPay.Payment.Integration\obj\Debug\AllPay.Payment.Integration.csprojResolveAssemblyReference.cache
+D:\work\app sample\AllPay.Payment.Integration\bin\Debug\ECPay.Payment.Integration.dll
+D:\work\app sample\AllPay.Payment.Integration\bin\Debug\ECPay.Payment.Integration.pdb
+D:\work\app sample\AllPay.Payment.Integration\obj\Debug\ECPay.Payment.Integration.dll
+D:\work\app sample\AllPay.Payment.Integration\obj\Debug\ECPay.Payment.Integration.pdb

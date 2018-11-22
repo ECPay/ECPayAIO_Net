@@ -25,3 +25,8 @@ C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方�
 C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\obj\Debug\AioCheckOut.csprojResolveAssemblyReference.cache
 C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\obj\Debug\AioCheckOut.dll
 C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.綠界-全方位金流SDK\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\obj\Debug\AioCheckOut.pdb
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\bin\AioCheckOut.dll
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\bin\AioCheckOut.pdb
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\obj\Debug\AioCheckOut.csprojResolveAssemblyReference.cache
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\obj\Debug\AioCheckOut.dll
+D:\ECgithub\ECpayAIO_Net\Sample Code\5.1.訂單產生\5.1.7.訂單產生含開立發票\AioCheckOut\obj\Debug\AioCheckOut.pdb

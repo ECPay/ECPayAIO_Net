@@ -119,7 +119,7 @@ namespace AioCheckOut
                     oPayment.SendExtend.RelateNumber = "ECPay" + new Random().Next(0, 99999).ToString();//廠商自訂編號                   
                     oPayment.SendExtend.CustomerID = "A12345678";//客戶代號
                     oPayment.SendExtend.CustomerIdentifier = "";//統一編號
-                    oPayment.SendExtend.CustomerName = "客戶名稱";//客戶名稱
+                    oPayment.SendExtend.CustomerName = "商家自訂名稱測試長度商家自訂名稱測試長度商家自訂名稱測試長度商家自訂名稱測試長度商家自訂名稱測試長度商家自訂名稱測試長度";//客戶名稱
                     oPayment.SendExtend.CustomerAddr = "客戶地址";//客戶地址
                     oPayment.SendExtend.CustomerPhone = "0912345678";//客戶手機號碼
                     oPayment.SendExtend.CustomerEmail = "test1234560@gmail.com";//客戶電子郵件
