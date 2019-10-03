@@ -152,5 +152,9 @@ namespace ECPay.Payment.Integration.SPCheckOut.ExtendArguments
                 return "1";
             }
         }
+        /// <summary>
+        /// Client端返回特店的按鈕連結
+        /// </summary>
+        public string ClientBackURL { get; set; }
     }
 }

@@ -1209,6 +1209,11 @@
             CheckMacValue加密類型
             </summary>
         </member>
+        <member name="P:ECPay.Payment.Integration.SPCheckOut.ExtendArguments.SendCommonArguments.ClientBackURL">
+            <summary>
+            Client端返回特店的按鈕連結
+            </summary>
+        </member>
         <member name="T:ECPay.Payment.Integration.SPCheckOut.TradeSPToken">
             <summary>
             SP_Token返回模組
