@@ -1,6 +1,0 @@
-C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.2、5.2.3取號結果通知\5.2.2.ATM 的取號結果通知\ATMFeedback\obj\Debug\ATMFeedback.csprojResolveAssemblyReference.cache
-C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.2、5.2.3取號結果通知\5.2.2.ATM 的取號結果通知\ATMFeedback\bin\ATMFeedback.dll
-C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.2、5.2.3取號結果通知\5.2.2.ATM 的取號結果通知\ATMFeedback\bin\ATMFeedback.pdb
-C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.2、5.2.3取號結果通知\5.2.2.ATM 的取號結果通知\ATMFeedback\bin\ECPay.Payment.Integration.dll
-C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.2、5.2.3取號結果通知\5.2.2.ATM 的取號結果通知\ATMFeedback\obj\Debug\ATMFeedback.dll
-C:\Users\sarah.shih.ECPAY\Desktop\11.全方位金流SDK_Ecpay\11.全方位金流SDK\5.2.2、5.2.3取號結果通知\5.2.2.ATM 的取號結果通知\ATMFeedback\obj\Debug\ATMFeedback.pdb
