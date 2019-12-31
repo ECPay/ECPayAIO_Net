@@ -29,7 +29,7 @@ namespace QueryTradeInfo
                     oPayment.MerchantID = "2000132";//ECPay 提供的廠商編號
 
                     /* 基本參數 */
-                    oPayment.Query.MerchantTradeNo = "";//廠商的交易編號
+                    oPayment.Query.MerchantTradeNo = "Luke4640";//廠商的交易編號
                     //oPayment.Query.PlatformID = "";//特約合作平台商代號
                     
                     /**********************************************************************************/

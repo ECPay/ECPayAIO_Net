@@ -32,7 +32,7 @@ namespace QueryCreditCardPeriodInfo
 
 
                     /* 基本參數 */
-                    oPayment.Query.MerchantTradeNo = "";//廠商的交易編號。
+                    oPayment.Query.MerchantTradeNo = "Luke39692";//廠商的交易編號。
                     
                     /**********************************************************************************************/
                     
