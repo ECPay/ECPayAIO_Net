@@ -30,7 +30,7 @@ namespace ECPay.Payment.Integration
             /// 廠商交易時間。
             /// </summary>
             [Required(ErrorMessage = "{0} is required.")]
-            public DateTime MerchantTradeDate { get; set; }
+            public string MerchantTradeDate { get; set; }
             /// <summary>
             /// 交易類型(程式自動設定)。
             /// </summary>
