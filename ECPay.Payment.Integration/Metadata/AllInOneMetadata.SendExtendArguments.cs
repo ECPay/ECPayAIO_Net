@@ -60,7 +60,7 @@ namespace ECPay.Payment.Integration
             /// <summary>
             /// 此網址為訂單建立完成後(非付款完成後)，綠界科技會將付款相關資訊以Client端方式回傳給特約商店(※有設定此參數ClientBackURL參數將會失去作用)。
             /// </summary>
-            [RegularExpression(@"^(?:http|https|ftp)://[a-zA-Z0-9\.\-]+(?:\:\d{1,5})?(?:[A-Za-z0-9\.\;\:\@\&\=\+\$\,\?/_]|%u[0-9A-Fa-f]{4}|%[0-9A-Fa-f]{2})*$", ErrorMessage = "{0} is not correct URL.")]
+            [RegularExpression(@"^(?:http|https|ftp)://[a-zA-Z0-9\.\-]+(?:\:\d{1,5})?(?:[A-Za-z0-9\.\;\:\@\&\=\+\-\$\,\?/_]|%u[0-9A-Fa-f]{4}|%[0-9A-Fa-f]{2})*$", ErrorMessage = "{0} is not correct URL.")]
             [StringLength(200, ErrorMessage = "{0} max langth as {1}.")]
             public string ClientRedirectURL { get; set; }
             /*

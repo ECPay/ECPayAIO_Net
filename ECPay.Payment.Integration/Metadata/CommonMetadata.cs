@@ -14,7 +14,7 @@ namespace ECPay.Payment.Integration
         /// 介接服務的網址。
         /// </summary>
         [Required(ErrorMessage = "{0} is required.")]
-        [RegularExpression(@"^(?:http|https|ftp)://[a-zA-Z0-9\.\-]+(?:\:\d{1,5})?(?:[A-Za-z0-9\.\;\:\@\&\=\+\$\,\?/_]|%u[0-9A-Fa-f]{4}|%[0-9A-Fa-f]{2})*$", ErrorMessage = "{0} is not correct URL.")]
+        [RegularExpression(@"^(?:http|https|ftp)://[a-zA-Z0-9\.\-]+(?:\:\d{1,5})?(?:[A-Za-z0-9\.\;\:\@\&\=\+\-\$\,\?/_]|%u[0-9A-Fa-f]{4}|%[0-9A-Fa-f]{2})*$", ErrorMessage = "{0} is not correct URL.")]
         [StringLength(200, ErrorMessage = "{0} max langth as {1}.")]
         public string ServiceURL { get; set; }
         /// <summary>

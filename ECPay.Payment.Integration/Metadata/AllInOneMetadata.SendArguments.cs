@@ -87,7 +87,7 @@ namespace ECPay.Payment.Integration
             /// <summary>
             /// 用戶端回傳付款結果的網址(※設定了此參數值，會使設定的ClientBackURL失效)。
             /// </summary>
-            [RegularExpression(@"^(?:http|https|ftp)://[a-zA-Z0-9\.\-]+(?:\:\d{1,5})?(?:[A-Za-z0-9\.\;\:\@\&\=\+\$\,\?/_]|%u[0-9A-Fa-f]{4}|%[0-9A-Fa-f]{2})*$", ErrorMessage = "{0} is not correct URL.")]
+            [RegularExpression(@"^(?:http|https|ftp)://[a-zA-Z0-9\.\-]+(?:\:\d{1,5})?(?:[A-Za-z0-9\.\;\:\@\&\=\+\-\$\,\?/_]|%u[0-9A-Fa-f]{4}|%[0-9A-Fa-f]{2})*$", ErrorMessage = "{0} is not correct URL.")]
             [StringLength(200, ErrorMessage = "{0} max langth as {1}.")]
             public string OrderResultURL { get; set; }
 
