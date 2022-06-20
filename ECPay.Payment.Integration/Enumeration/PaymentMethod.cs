@@ -57,6 +57,10 @@ namespace ECPay.Payment.Integration
         /// <summary>
         /// GooglePay
         /// </summary>
-        GooglePay = 11
+        GooglePay = 11,
+        /// <summary>
+        /// ApplePay
+        /// </summary>
+        ApplePay = 12
     }
 }

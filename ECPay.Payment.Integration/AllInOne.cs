@@ -182,7 +182,7 @@ namespace ECPay.Payment.Integration
 
                     this.Send.IgnorePayment += "APPBARCODE#";
 
-                    if (tIgnorePayment)
+                    if (tIgnorePayment) 
                     {
                         this.Send.IgnorePayment += "GooglePay";
                     }

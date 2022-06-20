@@ -3202,6 +3202,11 @@
             GooglePay
             </summary>
         </member>
+        <member name="F:ECPay.Payment.Integration.PaymentMethod.ApplePay">
+            <summary>
+            ApplePay
+            </summary>
+        </member>
         <member name="T:ECPay.Payment.Integration.PeriodType">
             <summary>
             定期定額的週期種類。
