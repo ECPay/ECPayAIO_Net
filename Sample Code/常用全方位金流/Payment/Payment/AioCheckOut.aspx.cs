@@ -23,9 +23,9 @@ namespace AioCheckOut
                     /* 服務參數 */
                     oPayment.ServiceMethod = HttpMethod.HttpPOST;//介接服務時，呼叫 API 的方法
                     oPayment.ServiceURL = "https://payment-stage.ecpay.com.tw/Cashier/AioCheckOut/V5";//要呼叫介接服務的網址
-                    oPayment.HashKey = "5294y06JbISpM5x9";//ECPay提供的Hash Key
-                    oPayment.HashIV = "v77hoKGq4kWxNNIS";//ECPay提供的Hash IV
-                    oPayment.MerchantID = "2000132";//ECPay提供的特店編號
+                     oPayment.HashKey = "pwFHCqoQZGmho4w6";//ECPay提供的Hash Key
+                    oPayment.HashIV = "EkRm7iFT261dpevs";//ECPay提供的Hash IV
+                    oPayment.MerchantID = "3002607";//ECPay提供的特店編號
 
                     /* 基本參數 */
                     oPayment.Send.ReturnURL = "http://example.com";//付款完成通知回傳的網址

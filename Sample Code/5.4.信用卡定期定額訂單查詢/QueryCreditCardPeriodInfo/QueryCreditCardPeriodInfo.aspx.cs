@@ -26,10 +26,9 @@ namespace QueryCreditCardPeriodInfo
                     /* 服務參數 */
                     oPayment.ServiceMethod = HttpMethod.ServerPOST; //介接服務時，呼叫 API 的方法
                     oPayment.ServiceURL = "https://payment-stage.ecpay.com.tw/Cashier/QueryCreditCardPeriodInfo";//要呼叫介接服務的網址
-                    oPayment.HashKey = "5294y06JbISpM5x9";//ECPay 提供的 HashKey
-                    oPayment.HashIV = "v77hoKGq4kWxNNIS";//ECPay 提供的 HashIV
-                    oPayment.MerchantID = "2000132";//ECPay 提供的廠商編號
-
+                     oPayment.HashKey = "pwFHCqoQZGmho4w6";//ECPay提供的Hash Key
+                    oPayment.HashIV = "EkRm7iFT261dpevs";//ECPay提供的Hash IV
+                    oPayment.MerchantID = "3002607";//ECPay提供的特店編號
 
                     /* 基本參數 */
                     oPayment.Query.MerchantTradeNo = "Luke39692";//廠商的交易編號。
