@@ -22,8 +22,9 @@ namespace PeriodFeedback
                 {
                     using (AllInOne oPayment = new AllInOne())
                     {
-                        oPayment.HashKey = "";//ECPay 提供的 HashKey
-                        oPayment.HashIV = "";//ECPay 提供的 HashIV
+                        oPayment.HashKey = "pwFHCqoQZGmho4w6";//ECPay提供的Hash Key
+						oPayment.HashIV = "EkRm7iFT261dpevs";//ECPay提供的Hash IV
+						//oPayment.MerchantID = "3002607";//ECPay提供的特店編號
                          /* 取回付款結果 */
                         enErrors.AddRange(oPayment.CheckOutFeedback(ref htFeedback));
                      }

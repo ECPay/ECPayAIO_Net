@@ -23,9 +23,9 @@ namespace DoAction
                     /* 服務參數 */
                     oPayment.ServiceMethod = HttpMethod.ServerPOST;//介接服務時，呼叫 API 的方法
                     oPayment.ServiceURL = "https://payment.ecpay.com.tw/CreditDetail/DoAction";//要呼叫介接服務的網址
-                    oPayment.HashKey = "";//ECPay 提供的 HashKey
-                    oPayment.HashIV = "";//ECPay 提供的 HashIV
-                    oPayment.MerchantID = "";//ECPay 提供的廠商編號
+                    oPayment.HashKey = "pwFHCqoQZGmho4w6";//ECPay提供的Hash Key
+                    oPayment.HashIV = "EkRm7iFT261dpevs";//ECPay提供的Hash IV
+                    oPayment.MerchantID = "3002607";//ECPay提供的特店編號
                     /* 基本參數 */
                     oPayment.Action.MerchantTradeNo = "";//廠商交易編號
                     oPayment.Action.TradeNo = "";//請保存 ECPay 的交易編號與 MerchantTradeNo 的關連
